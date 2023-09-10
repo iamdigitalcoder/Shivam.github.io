@@ -1,0 +1,58 @@
+body {
+  font-size: 15pt;
+ 
+background-color: maroon;
+}
+
+h1 {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Tiro Devanagari Marathi';
+  
+}
+
+
+
+.logo img {
+  width: 100px;
+  height: 100px;
+  font-size: 3px;
+  display: block;
+  margin: auto;
+}
+
+.photo img {
+  width: 200px;
+  height: 200px;
+  border: 3px solid orange;
+  display: block;
+  margin: auto;
+}
+
+.photo span{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    
+}
+  
+h2{
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Tiro Devanagari Marathi';
+  background-color: orange;
+         
+}
+h3{color: white;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  border-bottom:  ;
+  font-family: 'Tiro Devanagari Marathi';
+  
+  
+}
